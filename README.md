@@ -132,7 +132,7 @@ edgetag('data', {
 ## Step 4: Wicked Reports Tracking Script
 Copy the code below and paste it into the `<head>` of the DreamGiveaway website (recommended: place it near the existing Facebook Pixel code).
 ```javascript
-TBC
+<script type="text/javascript" src="https://widget.wickedreports.com/v2/5193/wr-9f67cf83a3fa2fa482d75f02480be6cc.js" async></script>
 ```
 
 
